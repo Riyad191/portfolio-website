@@ -1,106 +1,150 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
-    "socialLinks":[
-        {
-          "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
-          "className":"fa fa-linkedin"
-        },
-        {
-          "name":"github",
-          "url":"http://github.com/rbhatia46",
-          "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
-        }
-      ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
-    "education":[
-      {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
-      }
-    ],
-    "work":[
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
-    ],
-    "skillsDescription":"Your skills here",
-    "skills":[
-      {
-        "skillname":"HTML5"
-      },
-      {
-        "skillname":"CSS"
-      },
-      {
-        "skillname":"Reactjs"
-      }
-    ],
-    "portfolio":[
-      {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      },
-      {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
-    ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
-    ]
-  }
-  
-  export default resumeData
+  imagebaseurl: "https://rbhatia46.github.io/",
+  name: "Rio Alsalemi",
+  role: "Software Developer",
+  linkedinId: "Your LinkedIn Id",
+  skypeid: "Your skypeid",
+  roleDescription:
+    "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  socialLinks: [
+    {
+      name: "linkedin",
+      url: "#",
+      className: "fa fa-linkedin",
+    },
+    {
+      name: "github",
+      url: "#",
+      className: "fa fa-github",
+    },
+    {
+      name: "skype",
+      url: "#",
+      className: "fa fa-twitter",
+    },
+  ],
+  aboutme: `I'm a front-end developer with over 5 years of experience
+I am advanced in using React and Typescript for creating modern single page web applications,
+Redux and context API for global state management,
+Jest and React testing library for writing unit test,
+and node package manager to handle all the dependencies.
+I also have hands-on experience in web apps performance optimization. for the styling part,
+I'm familiar with using libraries like Bootstrap, 
+Material-Ul and I can customize them for different requirements.
+I can also build pure CSS styling from scratch.
+For the back-end side, I have experience in designing RESTful API using express and MongoDB for the database.
+Also, I'm aware of using project management tools like Git, Jira, and Agile methodology of working as well.
+`,
+  address: "Rio.dev999@gmail.com",
+  website: "+1-863-263-4504",
+  education: [
+    {
+      UniversityName: "Skillspire Insitute of Information Technology",
+      specialization: "Full Stack",
+      MonthOfPassing: "Aug",
+      YearOfPassing: "2015",
+      Achievements: "Dibloma",
+    },
+    {
+      UniversityName: "University of Washington",
+      specialization: "Data Anlytics",
+      MonthOfPassing: "Jan",
+      YearOfPassing: "2018",
+      Achievements: "Certification",
+    },
+  ],
+  work: [
+    {
+      CompanyName: "98Point6",
+      specialization: "React Developer",
+      // MonthOfLeaving: "Jan",
+      YearOfLeaving: "Jan 2019 - Present",
+      Achievements:
+        "• Maintained and upgraded the existing SPA with new UI features using HTML5, Bootstrap, CSS3,JavaScript, and ReactJS. \n• Collaborated with domestic and offshore development, design, and QA staff to deliver qualityproducts in an agile environment.• Styled the web pages using HTML5 and CSS3 as well as enhanced layouts and visual effects forexisting UI based on given standards and requirements.• Worked with designers, and PMs to define feature specifications and ship new features and productsto the customers.• Used the React Observables with Redux, React Router, and Redux-Thunk to enhance the application’s functionality.• Converted the existing UI components into code, made easily accessible by the parallel engineeringteams.• Implemented responsive design to improve user experience and browser compatibility for the multiplatform usage using media query in CSS3.• Built a modular lazy-loaded React front-end framework and component library.• Developed and optimized a client-side service that communicates with the back-end micro services.• Drove quality and testing methodologies to ensure the robustness of solutions using testing anddebugging frameworks like Jest and Enzyme.• Ensured code quality through meticulous version control using Git.• Collaborated with Product, Engingeering and UX teams to explore new feature ideas, workflowsand disambiguate requirements to create the appropriate interfaces.",
+    },
+    {
+      CompanyName: "Offerup",
+      specialization: "React Developer",
+      // MonthOfLeaving: "Jan",
+      YearOfLeaving: "February 2018 - May 2019",
+      Achievements:
+        "• Implements new product features, improved existing product features, while adding performance and software quality metrics to the code base.• Worked closely with other engineering teams, quality assurance, management, built a technical goto-market plan and then served as a key resource in the ongoing support and future release cycle of planned monthly program/product launch activities using ES6, ReactJS, Flux, Babel NodeJS and Webpack. • Collaborated with peers on technical design, work estimation and implementation of new UI features including visualization aspects and server interfaces/contracts. • Worked on Redux for state manipulations and Redux-Saga to implement API requests in an asynchronous manner and performed dynamic routing for the application using React Router. • Worked with project managers and technical teams, in a multi-functional environment, to implement quality products that meet the business goals.• Created reusable and scalable CSS components by using CSS preprocessor like Scss for code maintainability, scalability, and readability. • Used RESTful web services to implement integration between various applications. • Ran unit tests for the application using Jest and Enzyme to analyze application issues and provide regular analysis of ideas for application improvements. • Managed version control of the project by extensively using Git throughout the development. • Actively involved in the agile development process including effective participation in daily standups and seasonal sprints.",
+    },
+    {
+      CompanyName: "Resilience, Inc.",
+      specialization: "UI Developer",
+      YearOfLeaving: "November 2016 - December 2017",
+      Achievements:
+        "• Built and maintained the online education platform, ensuring all builds were tested and deployed in a timely manner.  • Created interactive UI and web pages using web technologies like HTML5, CSS3, JavaScript, jQuery following company’s standards and guidelines. • Worked with designers, and PMs to define feature specifications and ship new features and products to the customers. • Developed content pages with CSS3 layouts and style mark-up presentations with JavaScript methods and properties. • Helped to define the Software roadmap as part of the engineering leadership team. • Developed multi-browser/platform compatible web applications using HTML5, CSS3, JavaScritp, and JQuery. • Built a set of flexible, composable components in the design system that allow other engineers to add editable fields to forms and profiles with minimal effort. • Created Interactive graphic UI screens/web pagegs using JavaScript, jQuery, and Ajax. • Strictly followed and implemented user interface guidelines and standards throughout the development and maintenance of the application using HTML5, CSS3, and JavaScript. • Fetched data from web APIs using Ajax and JSON calls to keep the DOM updated and timelyreflecting sets of outcomes. • Used Mocha and Chai for unit testing. • Managed version control using Git. • Reported to the Scrum master regularly and participated effectively in various Agile development activities.",
+    },
+  ],
+  // skillsDescription: "",
+  skills: [
+    {
+      skillname: "Reactjs",
+    },
+    {
+      skillname: "HTML5",
+    },
+
+    {
+      skillname: "jquery",
+    },
+
+    {
+      skillname: "wordpress",
+    },
+    {
+      skillname: "CSS",
+    },
+    {
+      skillname: "Nodejs",
+    },
+    {
+      skillname: "Bootstrap",
+    },
+    {
+      skillname: "Material-UI",
+    },
+    {
+      skillname: "Typescript",
+    },
+    {
+      skillname: "Javascript",
+    },
+  ],
+  portfolio: [
+    // {
+    //   name: "project1",
+    //   description: "mobileapp",
+    //   imgurl: "./components/img/33e.jpg",
+    // },
+    // {
+    //   name: "project2",
+    //   description: "mobileapp",
+    //   imgurl: "images/portfolio/project.jpg",
+    // },
+    // {
+    //   name: "project3",
+    //   description: "mobileapp",
+    //   imgurl: "images/portfolio/project2.png",
+    // },
+    // {
+    //   name: "project4",
+    //   description: "mobileapp",
+    //   imgurl: "images/portfolio/phone.jpg",
+    // },
+  ],
+  testimonials: [
+    {
+      description: "This is a sample testimonial",
+      name: "Some technical guy",
+    },
+    {
+      description: "This is a sample testimonial",
+      name: "Some technical guy",
+    },
+  ],
+};
+
+export default resumeData;
