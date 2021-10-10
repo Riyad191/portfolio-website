@@ -1,5 +1,7 @@
 let resumeData = {
-  imagebaseurl: "https://rbhatia46.github.io/",
+  imagebaseurl:
+    "https://cdn.brandfolder.io/CBWQP80B/as/q4xpgq-ajpd80-bqjujz/3840x2160-jumbrotron-seattle.png",
+
   name: "Rio Alsalemi",
   role: "Software Developer",
   linkedinId: "Your LinkedIn Id",
@@ -81,36 +83,40 @@ Also, I'm aware of using project management tools like Git, Jira, and Agile meth
   // skillsDescription: "",
   skills: [
     {
-      skillname: "Reactjs",
-    },
-    {
       skillname: "HTML5",
-    },
-
-    {
-      skillname: "jquery",
-    },
-
-    {
-      skillname: "wordpress",
     },
     {
       skillname: "CSS",
     },
+
+    {
+      skillname: "Javascript",
+    },
+    {
+      skillname: "Typescript",
+    },
+
+    {
+      skillname: "Reactjs",
+    },
+
     {
       skillname: "Nodejs",
+    },
+    {
+      skillname: "Expressjs",
+    },
+    {
+      skillname: "MongoDB",
+    },
+    {
+      skillname: "SQL",
     },
     {
       skillname: "Bootstrap",
     },
     {
       skillname: "Material-UI",
-    },
-    {
-      skillname: "Typescript",
-    },
-    {
-      skillname: "Javascript",
     },
   ],
   portfolio: [

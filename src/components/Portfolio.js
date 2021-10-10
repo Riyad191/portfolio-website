@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "../App.css";
 import Pic1 from "./img/codespire.PNG";
 import Pic2 from "./img/mancity.PNG";
 import Pic3 from "./img/hex.PNG";
@@ -50,16 +51,7 @@ export default class Porfolio extends Component {
                 }}
               >
                 <a
-                  style={{
-                    display: "flex",
-                    justifyContent: "center",
-                    textAlign: "center",
-                    padding: "20px 20px",
-                    fontSize: 30,
-                    background: "gray",
-                    color: "white",
-                    margin: "20px 0 ",
-                  }}
+                  className="hero--projects"
                   href="https://the-hex-game.herokuapp.com/index.html "
                   target="_blank"
                 >
@@ -69,22 +61,14 @@ export default class Porfolio extends Component {
                       border: "solid white 6px",
                       padding: "15px 15px 20px 15px",
                       margin: "1px 0 0 0 ",
+                      color: "white",
                     }}
                   >
                     project 1
                   </p>
                 </a>
                 <a
-                  style={{
-                    display: "flex",
-                    justifyContent: "center",
-                    textAlign: "center",
-                    padding: "20px 20px",
-                    fontSize: 30,
-                    background: "gray",
-                    color: "white",
-                    margin: "20px 0 ",
-                  }}
+                  className="hero--projects"
                   href="https://code-spire.herokuapp.com/"
                   target="_blank"
                 >
@@ -93,22 +77,14 @@ export default class Porfolio extends Component {
                       border: "solid white 6px",
                       padding: "15px 15px 20px 15px",
                       margin: "1px 0 0 0 ",
+                      color: "white",
                     }}
                   >
                     project 2
                   </p>
                 </a>
                 <a
-                  style={{
-                    display: "flex",
-                    justifyContent: "center",
-                    textAlign: "center",
-                    padding: "20px 20px",
-                    fontSize: 30,
-                    background: "gray",
-                    color: "white",
-                    margin: "20px 0 ",
-                  }}
+                  className="hero--projects"
                   href="https://manchester--city.herokuapp.com/"
                   target="_blank"
                 >
@@ -117,22 +93,14 @@ export default class Porfolio extends Component {
                       border: "solid white 6px",
                       padding: "15px 15px 20px 15px",
                       margin: "1px 0 0 0 ",
+                      color: "white",
                     }}
                   >
                     project 3
                   </p>
                 </a>
                 <a
-                  style={{
-                    display: "flex",
-                    justifyContent: "center",
-                    textAlign: "center",
-                    padding: "20px 20px",
-                    fontSize: 30,
-                    background: "gray",
-                    color: "white",
-                    margin: "20px 0 ",
-                  }}
+                  className="hero--projects"
                   href="https://the--todo--app.herokuapp.com/"
                   target="_blank"
                 >
@@ -141,6 +109,7 @@ export default class Porfolio extends Component {
                       border: "solid white 6px",
                       padding: "15px 15px 20px 15px",
                       margin: "1px 0 0 0 ",
+                      color: "white",
                     }}
                   >
                     project 4
