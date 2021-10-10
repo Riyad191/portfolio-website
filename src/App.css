@@ -9,6 +9,7 @@
   margin: 20px 0;
 }
 .hero--projects:hover {
-  background-color: rgb(255, 168, 168);
+  background-color: rgb(78, 156, 156);
+  background: rgb(255, 106, 7);
   color: #282c34;
 }
