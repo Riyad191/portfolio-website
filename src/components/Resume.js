@@ -53,7 +53,25 @@ export default class Resume extends Component {
                           {item.MonthOfLeaving} {item.YearOfLeaving}
                         </em>
                       </p>
-                      <p>{item.Achievements}</p>
+                      <p>
+                        {
+                          <p>
+                            {item.Achievements.map((item) => (
+                              <>
+                                <br id="123456" />
+                                {item}
+                              </>
+                            ))}
+                          </p>
+                          // <p>
+                          //   {item.Achievements.splite("•").map((item) => (
+                          //     <>
+                          //       <br id="123456" />•{item}
+                          //     </>
+                          //   ))}
+                          // </p>
+                        }
+                      </p>
                     </div>
                   </div>
                 );
