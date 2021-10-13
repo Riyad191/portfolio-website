@@ -181,7 +181,7 @@ Also, I'm aware of using project management tools like Git, Jira, and Agile meth
   ],
   testimonials: [
     {
-      description: "One the best of our emplyees",
+      description: "One of the best of our employees",
       name: "Patrick Lin",
     },
     {
