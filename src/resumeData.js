@@ -8,23 +8,23 @@ let resumeData = {
   skypeid: "Your skypeid",
   roleDescription:
     "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
-  socialLinks: [
-    {
-      name: "linkedin",
-      url: "#",
-      className: "fa fa-linkedin",
-    },
-    {
-      name: "github",
-      url: "#",
-      className: "fa fa-github",
-    },
-    {
-      name: "skype",
-      url: "#",
-      className: "fa fa-twitter",
-    },
-  ],
+  // socialLinks: [
+  //   {
+  //     name: "linkedin",
+  //     url: "#",
+  //     className: "fa fa-linkedin",
+  //   },
+  //   {
+  //     name: "github",
+  //     url: "#",
+  //     className: "fa fa-github",
+  //   },
+  //   {
+  //     name: "skype",
+  //     url: "#",
+  //     className: "fa fa-twitter",
+  //   },
+  // ],
   aboutme: `I'm a front-end developer with over 5 years of experience
 I am advanced in using React and Typescript for creating modern single page web applications,
 Redux and context API for global state management,
