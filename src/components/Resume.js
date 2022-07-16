@@ -62,13 +62,6 @@ export default class Resume extends Component {
                               </>
                             ))}
                           </p>
-                          // <p>
-                          //   {item.Achievements.splite("•").map((item) => (
-                          //     <>
-                          //       <br id="123456" />•{item}
-                          //     </>
-                          //   ))}
-                          // </p>
                         }
                       </p>
                     </div>

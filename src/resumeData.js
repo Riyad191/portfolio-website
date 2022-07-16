@@ -57,11 +57,28 @@ Also, I'm aware of using project management tools like Git, Jira, and Agile meth
   ],
   work: [
     {
+      CompanyName: "Sam's Club Technology",
+      specialization: "React Developer",
+      YearOfLeaving: "Most recent Project",
+      Achievements: [
+        "• Built new and modified existing functional and class-based components using React and Redux for global state management and the feature of React Hooks.",
+        "• Used Jest and Enzyme for unit testing.",
+        "• Collaborated with peers on technical design, work estimation and implementation of new UI fea- tures including visualization aspects and server interfaces/contracts.",
+        "• Developed and refactored test cases / automation scripts and execute them according to release schedule for the project.",
+        "• Trained and provided sessions to the team members of using Webdriver.io library for automating testing PLP/PDP and Homepage &amp; Category page of the website.",
+        "• Coordinated and led project releases and KT sessions for demonstrating and representing the team’s work to production engineers for each sprit.",
+        "• Experienced working in an agile environment.",
+        "• Developed content pages with CSS3 layouts and style mark-up presentations with Javascript meth- ods and properties.",
+        "• Styled the web pages using HTML5 and CSS3 as well as enhanced layouts and visual effects for existing UI based on given standards and requirements.",
+        "• Team leading skills, encouraging team members to explore things, at the same time build confidence among them.",
+        "• Tested web applications and mobile apps for accessibility using automated tools, manual testing techniques, and screen reader software to ensure that the application is accessible by people with disabilities as required by law.",
+        "• Participated in cross-functional team meetings (e.g., requirements gathering) as needed throughout the project lifecycle and performed other duties as assigned by management.",
+      ],
+    },
+    {
       CompanyName: "98Point6",
       specialization: "React Developer",
-      // MonthOfLeaving: "Jan",
-      // YearOfLeaving: "Jan 2019 - Present",
-      YearOfLeaving: "Most recent Project",
+      YearOfLeaving: "Second Most Recent Project",
       Achievements: [
         "• Maintained and upgraded the existing SPA with new UI features using HTML5, Bootstrap, CSS3, JavaScript, and ReactJS.",
         "• Collaborated with domestic and offshore development, design, and QA staff to deliver quality products in an agile environment.",

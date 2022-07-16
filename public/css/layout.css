@@ -429,6 +429,11 @@ ul#nav li.current a {
   -moz-animation: mongodb 2s ease;
   -webkit-animation: mongodb 2s ease;
 }
+.webdriver {
+  width: 78%;
+  -moz-animation: webdriver 2s ease;
+  -webkit-animation: webdriver 2s ease;
+}
 
 @-webkit-keyframes wordpress {
   0% {
@@ -468,6 +473,15 @@ ul#nav li.current a {
   }
   100% {
     width: 85%;
+  }
+}
+
+@-webkit-keyframes webdriver {
+  0% {
+    width: 0px;
+  }
+  100% {
+    width: 78%;
   }
 }
 

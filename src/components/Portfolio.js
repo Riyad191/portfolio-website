@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import "../App.css";
-import Pic1 from "./img/codespire.PNG";
-import Pic2 from "./img/mancity.PNG";
-import Pic3 from "./img/hex.PNG";
-import Pic4 from "./img/todo.PNG";
+// import Pic1 from "./img/codespire.PNG";
+// import Pic2 from "./img/mancity.PNG";
+// import Pic3 from "./img/hex.PNG";
+// import Pic4 from "./img/todo.PNG";
 export default class Porfolio extends Component {
   render() {
     let resumeData = this.props.resumeData;
