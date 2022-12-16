@@ -45,14 +45,24 @@ export default class Porfolio extends Component {
                   display: "flex",
                   justifyContent: "space-between",
                   alignItems: "center",
-                  flexWrap: "wrap",
+                  flexDirection: "column",
                   textAlign: "center",
                   width: 1800,
                 }}
               >
+                <div 
+                  style={{
+                    display: "flex",
+                    justifyContent: "space-between",
+                    alignItems: "center",
+                    width: "100%",
+                    textAlign: "center",
+                    
+                  }}
+                 >
                 <a
                   className="hero--projects"
-                  href="https://the-hex-game.herokuapp.com/index.html "
+                  href="https://hex-game-js.herokuapp.com/"
                   target="_blank"
                 >
                   {" "}
@@ -69,7 +79,7 @@ export default class Porfolio extends Component {
                 </a>
                 <a
                   className="hero--projects"
-                  href="https://code-spire.herokuapp.com/"
+                  href="https://giphy-search-js.herokuapp.com/"
                   target="_blank"
                 >
                   <p
@@ -85,7 +95,7 @@ export default class Porfolio extends Component {
                 </a>
                 <a
                   className="hero--projects"
-                  href="https://manchester--city.herokuapp.com/"
+                  href="https://github-user-finder-react.herokuapp.com/"
                   target="_blank"
                 >
                   <p
@@ -99,9 +109,21 @@ export default class Porfolio extends Component {
                     project 3
                   </p>
                 </a>
+                </div>
+      
+                <div 
+                 style={{
+                  display: "flex",
+                  justifyContent: "space-between",
+                  alignItems: "center",
+                  textAlign: "center",
+                  width: "100%"
+                  
+                }}
+                >
                 <a
                   className="hero--projects"
-                  href="https://the--todo--app.herokuapp.com/"
+                  href="https://code-spire338.herokuapp.com/"
                   target="_blank"
                 >
                   <p
@@ -115,6 +137,39 @@ export default class Porfolio extends Component {
                     project 4
                   </p>
                 </a>
+                <a
+                  className="hero--projects"
+                  href="https://event--adder--app.herokuapp.com/"
+                  target="_blank"
+                >
+                  <p
+                    style={{
+                      border: "solid white 6px",
+                      padding: "15px 15px 20px 15px",
+                      margin: "1px 0 0 0 ",
+                      color: "white",
+                    }}
+                  >
+                    project 5
+                  </p>
+                </a>
+                <a
+                  className="hero--projects"
+                  href="https://manchester-city-js.herokuapp.com/"
+                  target="_blank"
+                >
+                  <p
+                    style={{
+                      border: "solid white 6px",
+                      padding: "15px 15px 20px 15px",
+                      margin: "1px 0 0 0 ",
+                      color: "white",
+                    }}
+                  >
+                    project 6
+                  </p>
+                </a>
+                </div>
               </div>
             </div>
           </div>
