@@ -41,6 +41,13 @@ Also, I'm aware of using project management tools like Git, Jira, and Agile meth
   // website: "+1-863-263-4504",
   education: [
     {
+      UniversityName: "American World University",
+      specialization: "Civil Engineer",
+      MonthOfPassing: "Jan",
+      YearOfPassing: "2012",
+      Achievements: "Bachelor",
+    },
+    {
       UniversityName: "Skillspire Insitute of Information Technology",
       specialization: "Full Stack",
       MonthOfPassing: "Aug",
@@ -57,9 +64,10 @@ Also, I'm aware of using project management tools like Git, Jira, and Agile meth
   ],
   work: [
     {
-      CompanyName: "Sam's Club Technology",
-      specialization: "React Developer",
-      YearOfLeaving: "Most recent Project",
+      CompanyName: "Walmart",
+      specialization: "Frontend Developer",
+      YearOfLeaving: "Most recent Projects",
+      Projects: "Sam's Club & Omni Supply Chain System Dashboard",
       Achievements: [
         "• Built new and modified existing functional and class-based components using React and Redux for global state management and the feature of React Hooks.",
         "• Used Jest and Enzyme for unit testing.",
@@ -77,17 +85,23 @@ Also, I'm aware of using project management tools like Git, Jira, and Agile meth
     },
     {
       CompanyName: "98Point6",
-      specialization: "React Developer",
+      specialization: "Web Developer",
       YearOfLeaving: "Second Most Recent Project",
+      Projects: "Internal Medical Records Management Platform",
       Achievements: [
         "• Maintained and upgraded the existing SPA with new UI features using HTML5, Bootstrap, CSS3, JavaScript, and ReactJS.",
+        "• Built Availability dashboard for Walmart internal employees to check the Big-Query data for Omni Supply Chain System team.",
+        "• Used Jest and Enzyme for unit testing.",
         "• Collaborated with domestic and offshore development, design, and QA staff to deliver quality products in an agile environment.",
         "• Styled the web pages using HTML5 and CSS3 as well as enhanced layouts and visual effects for existing UI based on given standards and requirements.",
+        "• Used the React state manager Redux and Redux middleware such as Redux-Saga, Redux-Thunk and Redux-toolkit for making API requests and having access to data from all the application components.",
         "• Worked with designers, and PMs to define feature specifications and ship new features and products to the customers.",
         "• Used the React Observables with Redux, React Router, and Redux-Thunk to enhance the appli-cation’s functionality.",
         "• Converted the existing UI components into code, made easily accessible by the parallel engineering teams.",
+        "• Used external libraries for styling and building the web functionality such as Material UI, Bootstarp, React Icons, Loadash and Axios for making API requests.",
         "• Implemented responsive design to improve user experience and browser compatibility for the multi- platform usage using media query in CSS3.",
         "• Built a modular lazy-loaded React front-end framework and component library.",
+        "• Created a wireframing design for the web with using Figma.",
         "• Developed and optimized a client-side service that communicates with the back-end micro services.",
         "• Drove quality and testing methodologies to ensure the robustness of solutions using testing and debugging frameworks like Jest and Enzyme.",
         "• Ensured code quality through meticulous version control using Git.",
